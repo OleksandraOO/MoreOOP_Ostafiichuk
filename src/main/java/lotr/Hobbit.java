@@ -11,7 +11,7 @@ public class Hobbit extends Character {
     }
 
     private void toCry() {
-        System.out.println("Hobbit is crying!");
+        System.out.println("Cry!");
     }
 
     @Override
